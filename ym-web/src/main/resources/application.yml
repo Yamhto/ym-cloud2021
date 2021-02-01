@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: cloud-2021-web
+server:
+  port: 8084
